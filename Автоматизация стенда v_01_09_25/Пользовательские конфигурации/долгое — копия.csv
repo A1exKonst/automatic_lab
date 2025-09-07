@@ -1,0 +1,17 @@
+Index;Command_Name;Command_Args;
+0;Korad.Set_U;1.2;
+1;Korad.Set_I_for_t;1.67;10000
+2;Korad.Set_I_for_t;1.66;3600
+3;Korad.Set_I_for_t;1.65;3600
+4;Korad.Set_I_for_t;1.64;3600
+5;Korad.Set_I_for_t;1.63;3600
+6;Korad.Set_I_for_t;1.62;3600
+7;Korad.Set_I_for_t;1.61;3600
+8;Korad.Set_I_for_t;1.6;3600
+9;Korad.Set_I_for_t;1.67;7200
+10;Korad.Set_I_for_t;1.68;3600
+11;Korad.Set_I_for_t;1.69;3600
+12;Korad.Set_I_for_t;1.7;3600
+13;Korad.Set_I_for_t;1.71;3600
+14;Korad.Set_I_for_t;1.72;3600
+15;Korad.Set_I_for_t;1.67;3600

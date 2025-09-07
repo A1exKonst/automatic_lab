@@ -1,0 +1,9 @@
+Index;Command_Name;Command_Args;;
+0;Korad.Set_U;0.002;;
+1;TimeSleep;1;;
+2;Korad.Set_U;0.001;;
+3;TimeSleep;3;;
+4;Korad.Set_U;0.002;;
+5;TimeSleep;3;;
+6;Korad.Set_U_for_t;0.004;10;1
+7;Korad.Set_U;0;;

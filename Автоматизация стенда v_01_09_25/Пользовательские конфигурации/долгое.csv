@@ -1,0 +1,9 @@
+Index;Command_Name;Command_Args;
+0;Korad.Set_U;1.2;
+1;Korad.Set_I_for_t;1.67;7200
+2;Korad.Set_I_for_t;1.68;3600
+3;Korad.Set_I_for_t;1.69;3600
+4;Korad.Set_I_for_t;1.7;3600
+5;Korad.Set_I_for_t;1.71;3600
+6;Korad.Set_I_for_t;1.72;3600
+7;Korad.Set_I_for_t;1.67;3600
